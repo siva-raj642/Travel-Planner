@@ -77,7 +77,7 @@ The **Travel Planner App** is a MERN-based application that allows users to plan
 This project is licensed under the **MIT License**.
 
 ## Contact
-For any queries, feel free to reach out via [your-email@example.com] or create an issue in the repository.
+For any queries, feel free to reach out via sivarajrjpm07@gmail.com 
 
 ---
 **Happy Traveling!**
